@@ -1,7 +1,7 @@
 -r tests.txt
 
-black[jupyter]==24.10.0
-flake8==7.1.1
-isort==6.0.1
-pre_commit==4.2.0
-pylint==3.3.6
+black[jupyter]==26.5.1
+flake8==7.3.0
+isort==9.0.1
+pre_commit==4.6.2
+pylint==4.0.8
