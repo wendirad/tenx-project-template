@@ -5,4 +5,4 @@ matplotlib==3.11.2
 seaborn==0.13.2
 statsmodels==0.15.0
 scipy==1.18.1
-streamlit==1.64.0
+streamlit==1.65.0
